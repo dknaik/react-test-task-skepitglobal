@@ -1,0 +1,13 @@
+ <!-- <svg id="10015.io" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+	<path fill="#474bff" d="M407,297Q397,354,351,397.5Q305,441,236.5,451.5Q168,462,133.5,402Q99,342,64.5,291Q30,240,63,188Q96,136,134,84Q172,32,235,47Q298,62,339.5,100Q381,138,399,189Q417,240,407,297Z" />
+</svg>
+  -->
+
+  <svg style="visibility: hidden; position: absolute;" width="0" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <defs>
+        <filter id="goo"><feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur" />    
+            <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9" result="goo" />
+            <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+        </filter>
+    </defs>
+</svg>
